@@ -1,3 +1,5 @@
+source: blog
+destination: jekyll
 defaults:
     -
         scope:
