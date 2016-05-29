@@ -1,0 +1,6 @@
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            permalink: /:year/:month/:day/:title.html
