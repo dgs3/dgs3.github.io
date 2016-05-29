@@ -1,4 +1,4 @@
-source: blog
-
+destination: "jekyll"
+exclude: ["CNAME", ".*"]
 author: "Dave Sayles"
 permalink: ":title.html"
