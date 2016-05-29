@@ -1,5 +1,4 @@
 source: blog
-destination: jekyll
 
 author: "Dave Sayles"
 permalink: ":title.html"
