@@ -1,0 +1,6 @@
+# blog.dgs3.fish
+A blog
+
+It looks like having the jekyll standard config option of
+having a "source" dir doesn't really apply to $USERNAME.github.io,
+so we need to keep everything in the root of this repo.

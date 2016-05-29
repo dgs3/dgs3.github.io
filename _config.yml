@@ -1,4 +1,4 @@
 destination: "jekyll"
-exclude: ["CNAME", ".*"]
+exclude: ["CNAME", "README", ".*"]
 author: "Dave Sayles"
 permalink: ":title.html"
