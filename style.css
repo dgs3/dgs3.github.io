@@ -2,6 +2,11 @@
 layout: nil
 ---
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 body {
     background-color: white;
     margin-left: auto;
@@ -12,4 +17,5 @@ body {
 
 ul {
     list-style-type: none;
+    padding-left: 0;
 }
