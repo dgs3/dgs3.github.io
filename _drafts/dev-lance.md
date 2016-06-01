@@ -1,10 +1,9 @@
 ---
 title: The Dev Lance
 layout: default
+title: The Dev Lance
+subtitle: Or, The intersection of Italian Renaissance Warface and Software Development
 ---
-#### The Dev Lance
-Or, The intersection of Italian Renaissance Warface and Software Development
-
 In 1360 A.D. the White Company, lead by John Hawkwood, was dominating the
 Italian military scene.  John, initially an English soldier during the Hundred
 Years War, joined a mercenary band named the White Company (supposedly called
