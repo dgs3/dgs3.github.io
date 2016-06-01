@@ -1,5 +1,6 @@
 ---
 title: Commincation increases accountability
+layout: default
 ---
 # Communication increases accountability
 A post about how by emailing or telling people you're going to do something,

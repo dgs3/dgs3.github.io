@@ -1,5 +1,6 @@
 ---
 title: The Dev Lance
+layout: default
 ---
 #### The Dev Lance
 Or, The intersection of Italian Renaissance Warface and Software Development
@@ -58,5 +59,6 @@ Dev Lance success is measured by how efficiently the doers can get their jobs
 done, only with competency in both areas will there be a complete success.
 
 
-Sources: 
-Mallett, Michael Edward., and William Caferro. Mercenaries and Their Masters: Warfare in Renaissance Italy. Barnsley: Pen & Sword Military, 2009. Print.
+Sources:
+
+1. Mallett, Michael Edward., and William Caferro. Mercenaries and Their Masters: Warfare in Renaissance Italy. Barnsley: Pen & Sword Military, 2009. Print.
