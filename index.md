@@ -4,11 +4,12 @@ layout: default
 ### blog.dgs3.fish
 The intersection of history, technology, cooking, etc.
 
-<ul >
-    {% for post in site.posts limit 4 %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{
-BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-        {{ post.content | truncatewords:75}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
-    {% endfor %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}"><h3>{{ post.title }}</h3>
+      <h4>{{ post.subtitle }}</h4>
+      <p>{{ post.excerpt }}</p></a>
+    </li>
+  {% endfor %}
 </ul>
