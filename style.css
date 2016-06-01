@@ -50,6 +50,20 @@ body {
     color: #a5a5a5;
 }
 
+#footer {
+    color: #42B6F3;
+    font:300 15px/1.5 Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+}
+
+#footer a {
+    color: #42B6F3;
+}
+
+#footer a:hover, a:focus {
+    color: #0000ff;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-weight:500;
     letter-spacing:-1px;
