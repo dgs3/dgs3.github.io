@@ -60,4 +60,3 @@ done, only with competency in both areas will there be a complete success.
 
 Sources: 
 Mallett, Michael Edward., and William Caferro. Mercenaries and Their Masters: Warfare in Renaissance Italy. Barnsley: Pen & Sword Military, 2009. Print.
-wikipedia.org
