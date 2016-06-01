@@ -23,11 +23,11 @@ their mounts.
 
 In the vein of History being Philosophy by Example, I've found myself looking
 towards Hawkwood's Lances as an example of how better to run a Software
-Development department.  In both situations you have a group of people with
-different roles, but the same main objective.  You have some that do the actual
-work, and others who support those doers and make sure they have the best
-chances of success.  You operate as a cohesive unit, and strive for
-organization and efficiency to achieve victory.
+Department.  In both situations you have a group of people with different
+roles, but the same main objective.  You have some that do the actual work, and
+others who support those doers and make sure they have the best chances of
+success.  Both are equally important for success.   You operate as a cohesive
+unit, and strive for organization and efficiency to achieve victory.
 
 In this example, knights would be the engineers.  Literally with their boots on
 the ground, they solve problems and fix issues by wading through source code
