@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h2> {{ page.title }}</h2>
-  <h3> {{ page.subtitle }}</h3>
-  <section class="content">
-    {{ content }}
-  </section>
-  {% include footer.html %}
+    <div id="bar"></div>
+    <h2> {{ page.title }}</h2>
+    <h3> {{ page.subtitle }}</h3>
+    <section class="content">
+        {{ content }}
+    </section>
+    {% include footer.html %}
 </body>
 </html>
