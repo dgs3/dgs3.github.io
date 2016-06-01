@@ -3,13 +3,13 @@ layout: nil
 ---
 
 a {
-    color:#222;
+    color: #222;
     text-decoration: none;
-    transition:all 0.2s ease;
+    transition: all 0.2s ease;
 }
 
 a:hover, a:focus {
-    color:#42B6F3;
+    color: #42B6F3;
 }
 
 #bar{
@@ -23,7 +23,7 @@ a:hover, a:focus {
 
 body {
     background-color: white;
-    font:300 18px/1.5 Roboto, "Helvetica Neue", Arial, sans-serif;
+    font: 300 18px/1.5 Roboto, "Helvetica Neue", Arial, sans-serif;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
@@ -43,7 +43,7 @@ body {
 }
 
 .button:hover {
-    color:#42B6F3;
+    color: #42B6F3;
 }
 
 #content {
@@ -52,7 +52,7 @@ body {
 
 #footer {
     color: #42B6F3;
-    font:300 15px/1.5 Roboto, "Helvetica Neue", Arial, sans-serif;
+    font: 300 15px/1.5 Roboto, "Helvetica Neue", Arial, sans-serif;
     text-align: center;
 }
 
@@ -65,9 +65,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight:500;
-    letter-spacing:-1px;
-    line-height:1.1;
+    font-weight: 500;
+    letter-spacing: -1px;
+    line-height: 1.1;
 }
 
 ul {
