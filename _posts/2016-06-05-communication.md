@@ -19,13 +19,13 @@ have for stuff I actually want.
 I find (again, for personal stuff) that the two things that help me finish
 stuff are:
 
-1. Working in bitsized chunks, being realistic about timelines.
+1. Working in bitsized chunks, being realistic about time lines.
 2. Not telling a soul about what I'm working on.
 
 The former helps me not spend my entire weekend on a single thing that ends up
-being frusting and subsequently shelved.  Giving myself a month to work on even
-small projects helps keep my interest.  The latter saves any sort of
-embarassment, since telling a friend you're working on something really cool
+being frustrating and subsequently shelved.  Giving myself a month to work on
+even small projects helps keep my interest.  The latter saves any sort of
+embarrassment, since telling a friend you're working on something really cool
 then not finishing it feeds that frustration.  It's also nice to reveal
 something when it's near or totally completed.
 
